@@ -15,8 +15,7 @@ All implemented using **Medallion architecture (bronze → silver → gold)**, *
 
 ## 🧱 Architecture Overview
 
-![Azure Databricks Architecture](Azure-Databricks-End-to-End-Real-Time-Data-Engineering-Project
-.png)
+![Azure Databricks Architecture](Azure-Databricks-End-to-End-Real-Time-Data-Engineering-Project.png)
 
 
 ### Cloud Platform & Tools
