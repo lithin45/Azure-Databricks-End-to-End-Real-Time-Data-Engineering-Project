@@ -131,7 +131,3 @@ All implemented using **Medallion architecture (bronze → silver → gold)**, *
 - Interactive Power BI dashboards built on top of optimized data models
 
 ---
-
-## 📎 License
-
-This project is for learning and demonstration purposes only.
